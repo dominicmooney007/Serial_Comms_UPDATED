@@ -1,0 +1,6 @@
+# Serial Communication - Raspberry Pi to Arduino
+# Python dependencies for raspberry_pi_serial.py
+
+# PySerial - Serial port communication library
+# Used for communicating with Arduino via USB/serial connection
+pyserial>=3.5
